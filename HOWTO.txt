@@ -1,0 +1,1 @@
+Simplemente en la consola escribir: python archivo.py 10-05-2024.csv
